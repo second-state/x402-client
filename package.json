@@ -1,0 +1,9 @@
+{
+  "name": "x402-client",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "x402-fetch": "^1.1.0"
+  }
+}
