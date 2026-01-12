@@ -1,0 +1,11 @@
+{
+  "name": "x402-client-x402labs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "x402-client": "github:second-state/x402-client"
+  }
+}
